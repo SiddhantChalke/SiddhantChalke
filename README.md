@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiddhantChalke
 - 👀 I’m a MERN Stack Developer with proficiency in React JS.
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning TypeScript & experimenting in creative development.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 Email me at: siddhantchalke20@gmail.com
 - 🚶‍♀️🚶‍♂️Follow me on twitter: [@third_radish](https://twitter.com/third_radish)
