@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SiddhantChalke
 - 👀 I’m a JavaScript Developer with proficiency in React JS.
-- 🌱 I’m currently learning Data Science & building some projects.
+- 🌱 I’m currently learning Python & JS game-dev.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 Email me at: siddhantchalke20@gmail.com
 
